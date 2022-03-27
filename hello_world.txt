@@ -1,0 +1,16 @@
+Aardvark	African Elephant
+African Grey Parrot	African Lion
+African Wild Dog	Agouti
+Albacore	Albatross
+Alligator Allosaurus	Alpaca
+Amazon Dolphin	Amazon Parrot
+AmberjackAmerican Alligator	American Bison
+American Crow	American Kestrel
+American Robin	Anaconda	Anchovy
+Andean Condor	Angelfish	Anglerfish
+Anhinga	Anole	Ant	Anteater	Antelope
+Arabian Horse	Arapaima	Arctic Fox
+Arctic Wolf	Argus	Armadillo	Arowana	Arthropod
+Asian Elephant	Assassin Bug	Atlantic Salmon
+Auk	Axis Deer	Axolotl		Aye Aye
+
